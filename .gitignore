@@ -3,6 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
+target/
 
 ### STS ###
 .apt_generated
@@ -14,7 +15,7 @@ build/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-../.idea
+.idea
 *.iws
 *.iml
 *.ipr
@@ -44,5 +45,3 @@ out/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-# Project exclude paths
-/target/
